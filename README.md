@@ -1,4 +1,4 @@
-## Linux In Action
+##### *Linux In Action
 
 # Linux Curriculum
 
