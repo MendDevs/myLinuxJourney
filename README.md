@@ -1,5 +1,21 @@
 ##### *Linux In Action
 
+Here's a Table of Contents to navigate this repo:
+| Module   | Title & Link                                                                  | Description                                                   |
+| -------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Module 1 | [**Linux Fundamentals**](./linux-fundamentals.md)                             | Get grounded in the core concepts every Linux user must know. |
+| Module 2 | [**Shell Scripting & Automation**](./shell-scripting-automation.md)           | Automate tasks and write maintainable shell scripts.          |
+| Module 3 | [**System Administration**](./system-administration.md)                       | Manage Linux systems like a pro.                              |
+| Module 4 | [**Networking & Security**](./networking-security.md)                         | Secure and configure networks like an expert.                 |
+| Module 5 | [**Linux for Developers**](./linux-for-developers.md)                         | Use Linux as a software development environment.              |
+| Module 6 | [**Linux in DevOps & Cloud**](./linux-devops-cloud.md)                        | Deploy, manage, and scale systems with Linux in production.   |
+| Module 7 | [**Linux for Cybersecurity & Forensics**](./linux-cybersecurity-forensics.md) | Use Linux as a hacker’s or defender’s playground.             |
+| Module 8 | [**Specialized Linux Applications**](./specialized-linux-apps.md)             | Explore niche and high-demand Linux environments.             |
+| Extra    | [**Learning Path Suggestions**](./learning-path-suggestions.md)               | Recommendations for structured learning.                      |
+| Extra    | [**Optional Enhancements**](./optional-enhancements.md)                       | Bonus resources and advanced tools.                           |
+
+
+
 # Linux Curriculum
 
 ## 🎓 **Full Curriculum: Mastering Linux in Depth**
