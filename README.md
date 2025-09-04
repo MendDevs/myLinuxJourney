@@ -10,7 +10,8 @@ Here's a Table of Contents to navigate this repo:
 | Module 5 | [**Linux for Developers**](./linux-for-developers.md)                         | Use Linux as a software development environment.              |
 | Module 6 | [**Linux in DevOps & Cloud**](./linux-devops-cloud.md)                        | Deploy, manage, and scale systems with Linux in production.   |
 | Module 7 | [**Linux for Cybersecurity & Forensics**](./linux-cybersecurity-forensics.md) | Use Linux as a hacker’s or defender’s playground.             |
-| Module 8 | [**Specialized Linux Applications**](./specialized-linux-apps.md)             | Explore niche and high-demand Linux environments.             |
+| Module 8 | [**Linux for AI & Data Science (./linux-ai-and-data.md)                       | Using Linux for Data and AI)
+| Module 9 | [**Specialized Linux Applications**](./specialized-linux-apps.md)             | Explore niche and high-demand Linux environments.             | 
 | Extra    | [**Learning Path Suggestions**](./learning-path-suggestions.md)               | Recommendations for structured learning.                      |
 | Extra    | [**Optional Enhancements**](./optional-enhancements.md)                       | Bonus resources and advanced tools.                           |
 
